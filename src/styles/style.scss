@@ -1,0 +1,13 @@
+@use "./base/reset";
+
+html {
+	font-family: "Raleway", sans-serif;
+}
+
+body {
+	width: 100%;
+	min-height: 100vh;
+	background-color: #111;
+	color: #999;
+}
+
