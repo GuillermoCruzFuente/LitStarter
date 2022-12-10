@@ -1,0 +1,121 @@
+[
+	{
+		"name": "Luxury Linens",
+		"description": "Experience the ultimate in comfort and luxury with our Luxury Linens. Made from the finest materials, these linens are soft to the touch and feature a beautiful design that will enhance the look of any bedroom.",
+		"image": "https://pixabay.com/get/geedc3b3819e855aef217419abb038d65bd4a0682ee69bd6a2eb03223b8fb19ea025b28cc37d769361f7b3285d8302cc7faa1f5aa9b5fdab1899686694eaf2f7911c02474cedfa5b2a8de2175b4a65c32_640.jpg"
+	},
+	{
+		"name": "Magic Eraser",
+		"description": "Magic Eraser is a cleaning product that can be used to remove tough stains and marks from a variety of surfaces. It is made of a soft, spongy material that is easy to grip and use, and it can effectively remove things like scuff marks, crayon marks, and even some graffiti from walls and other surfaces.",
+		"image": "",
+		"tags": ""
+	},
+	{
+		"name": "AirPods",
+		"description": "AirPods are a type of wireless earbuds that can be used with a variety of devices, including iPhones, iPads, and some Android phones.",
+		"image": "",
+		"tags": ""
+	},
+	{
+		"name": "Fitbit",
+		"description": "Fitbit is a line of wearable fitness trackers that can be worn on the wrist. These devices track a user's activity levels, including steps taken, distance traveled, and calories burned, and they can also monitor heart rate and sleep patterns.",
+		"image": "",
+		"tags": ""
+	},
+	{
+		"name": "Instant Pot",
+		"description": "Instant Pot is a type of electric pressure cooker that can be used to quickly and easily prepare a wide range of meals. It has multiple cooking functions, including pressure cooking, slow cooking, sautéing, and warming, and it can be used to make everything from soups and stews to rice, beans, and even yogurt.",
+		"image": "",
+		"tags": ""
+	},
+	{
+		"name": "Swiss Army Knife",
+		"description": "The Swiss Army Knife is a multi-tool that is designed to be compact and versatile. It typically includes a variety of implements, such as a blade, scissors, a screwdriver, and a can opener, among others.",
+		"image": "",
+		"tags": "multi-tool, compact, versatile, outdoor, DIY, handy"
+	},
+	{
+		"name": "Roomba",
+		"description": "The Roomba is a line of robotic vacuum cleaners that can be used to automatically clean floors in a home or office. These devices are equipped with sensors and a navigation system that allows them to move around a space and avoid obstacles, and they can be programmed to clean on a schedule or controlled using a smartphone app.",
+		"image": "",
+		"tags": "automatic, smart, convenient, effective"
+	},
+	{
+		"name": "Google Home",
+		"description": "Google Home is a line of smart speakers that can be used to control a variety of smart home devices and access a wide range of online services. These devices are equipped with voice recognition technology, so users can issue commands and ask questions simply by speaking to the speaker.",
+		"image": "",
+		"tags": "smart speaker, voice recognition, smart home"
+	},
+	{
+		"name": "Amazon Echo",
+		"description": "Amazon Echo is a line of smart speakers that can be used to control a variety of smart home devices and access a wide range of online services. These devices are equipped with voice recognition technology, so users can issue commands and ask questions simply by speaking to the speaker.",
+		"image": "",
+		"tags": "smart speaker, voice recognition, smart home"
+	},
+	{
+		"name": "Microsoft Surface",
+		"description": "Microsoft Surface is a line of tablets and laptop computers that are designed to be versatile and powerful. These devices are equipped with high-resolution touchscreen displays and long-lasting batteries, and they can be used in a variety of different modes, including laptop mode, tablet mode, and studio mode.",
+		"image": "",
+		"tags": "tablet, laptop, versatile, touchscreen, powerful"
+	},
+	{
+		"name": "Apple Watch",
+		"description": "Apple Watch is a line of smartwatches that can be used to track fitness and health data, receive notifications from a connected smartphone, and perform a variety of other tasks. These devices are equipped with a range of sensors, including a heart rate monitor and GPS, and they can be used to track things like steps taken, distance traveled, and calories burned.",
+		"image": "",
+		"tags": "smartwatch, fitness, health, notifications, sleek"
+	},
+	{
+		"name": "Nest Thermostat",
+		"description": "Nest Thermostat is a smart thermostat that can be used to control the temperature in a home or office. It is equipped with a range of sensors and a user-friendly interface, and it can be controlled using a smartphone app or a web browser.",
+		"image": "",
+		"tags": "smart thermostat, energy efficient, smart home, temperature control"
+	},
+	{
+		"name": "",
+		"description": "",
+		"image": "",
+		"tags": ""
+	},
+	{
+		"name": "",
+		"description": "",
+		"image": "",
+		"tags": ""
+	},
+	{
+		"name": "",
+		"description": "",
+		"image": "",
+		"tags": ""
+	},
+	{
+		"name": "",
+		"description": "",
+		"image": "",
+		"tags": ""
+	},
+	{
+		"name": "",
+		"description": "",
+		"image": "",
+		"tags": ""
+	},
+	{
+		"name": "",
+		"description": "",
+		"image": "",
+		"tags": ""
+	},
+	{
+		"name": "",
+		"description": "",
+		"image": "",
+		"tags": ""
+	},
+	{
+		"name": "",
+		"description": "",
+		"image": "",
+		"tags": ""
+	}
+]
