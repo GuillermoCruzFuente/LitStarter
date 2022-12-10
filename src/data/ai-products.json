@@ -1,0 +1,76 @@
+{
+	"products": [
+		{
+			"name": "Magic Eraser",
+			"description": "A cleaning product that can be used to remove tough stains and marks from a variety of surfaces.",
+			"tags": ["cleaning", "stains", "marks"],
+			"image": "https://pixabay.com/get/g78b651e0c5d72c122377035035700a56965c893c5290baa88b1d3f4a823e6485867ad9ae2e2102fba472341c0e9feb4d09b29fe252d73e6510e0004772630bcafa43a23c012cbe691ea4c3f5958ed07f_640.jpg"
+		},
+		{
+			"name": "AirPods",
+			"description": "Wireless earbuds that can be used with a variety of devices, including iPhones and iPads.",
+			"tags": ["wireless", "earbuds", "music"],
+			"image": "https://pixabay.com/get/g457fe9e81abf6de71ae8faeb7630b0858f59e034970991ee9f36c5e2616006d51d9030047784fe9be697dd74e8ba22746ce33cc5b68991cf179c9b050faeb352e64b76905b3a6506d4ccec152a39b243_640.jpg"
+		},
+		{
+			"name": "Fitbit",
+			"description": "A line of wearable fitness trackers that can be worn on the wrist to track activity levels and monitor health data.",
+			"tags": ["fitness", "health", "wearable"],
+			"image": "https://pixabay.com/get/g7410decd17f90e6e2c52716650a0861f1f53a13dd5dc8cf401d43dcfabf49fd6ad2ab86e5cf5d75b309ad4ed1bff3d53f89b2905c7ca39792b83367ae12d1dc5e2487d2b75fbfa66a3733316a69297d0_640.jpg"
+		},
+		{
+			"name": "Instant Pot",
+			"description": "An electric pressure cooker that can be used to quickly and easily prepare a wide range of meals.",
+			"tags": ["cooking", "electric", "cooker"],
+			"image": "https://pixabay.com/get/g65873aa3256d9f305ae03692868bfa5f2f4fe1ae274e0a12bf4f4fd4d89dbbc124ec01abc8b61b749ef95f85af99dee1_640.jpg"
+		},
+		{
+			"name": "Swiss Army Knife",
+			"description": "A multi-tool that is designed to be compact and versatile, with a variety of implements for different tasks.",
+			"tags": ["multi-tool", "compact", "versatile"],
+			"image": "https://pixabay.com/get/gd4abaa6585b837673c5d4e0c649e31f118758595a4e448985880628bffcfb00b0541a731d00e267431cf7fe272833900_640.jpg"
+		},
+		{
+			"name": "Roomba",
+			"description": "A line of robotic vacuum cleaners that can be used to automatically clean floors in a home or office.",
+			"tags": ["robot", "vacuum", "cleaning"],
+			"image": "https://pixabay.com/get/gc8e2f0ccd9e8af7026747961138e5b1dae39e6a95721c821ed8c0f1d9369d35e2e47e462e0b1f668e948e1fe9e360875_640.jpg"
+		},
+		{
+			"name": "Google Home",
+			"description": "A line of smart speakers that can be used to control a variety of smart home devices and access a wide range of online services.",
+			"tags": ["smart", "speaker", "home automation"],
+			"image": "https://pixabay.com/get/g7a1248a11c1868fbbf8aa77bafd9bd24e1f233889b20e4a10d6c00d6834f985e5c15e5e1ff5597108e78ab43b82ce110_640.jpg"
+		},
+		{
+			"name": "Amazon Echo",
+			"description": "A line of smart speakers that can be used to control a variety of smart home devices and access a wide range of online services.",
+			"tags": ["smart", "speaker", "home automation"],
+			"image": "https://pixabay.com/get/gdeca2720a7059f2fbfc2e9eb6f62197ead4c91ad8b73f6ca7768deb601566c29cf365d3f52ea34030cfddb378f03517b_640.jpg"
+		},
+		{
+			"name": "Microsoft Surface",
+			"description": "A line of tablets and laptop computers that are designed to be versatile and powerful.",
+			"tags": ["tablet", "laptop", "versatile"],
+			"image": "https://pixabay.com/get/g766f2d69d548f29bac4525baf746f7b5e7575408fea6009f199e338a15658936e47d4d65312c2ff548fcf618cec1f5d2_640.jpg"
+		},
+		{
+			"name": "Apple Watch",
+			"description": "A line of smartwatches that can be used to track fitness and health data, receive notifications from a connected smartphone, and perform a variety of other tasks.",
+			"tags": ["smartwatch", "fitness", "health"],
+			"image": "https://pixabay.com/get/g0e468fbbc4531d917a576d35846846b0deb3bd2a6798be1df285473b690091ee0d4fff152ff3ea9f1fb33748ded7317a_640.jpg"
+		},
+		{
+			"name": "Nest Thermostat",
+			"description": "A smart thermostat that can be used to control the temperature in a home or office.",
+			"tags": ["smart", "thermostat", "temperature"],
+			"image": "https://pixabay.com/get/g88c8d2305b97c205c20ab310939af793df7053ad4a17841478c7018ef5ae8f5d7484052b60cb74d44c95e83629a13c81_640.jpg"
+		},
+		{
+			"name": "Kindle",
+			"description": "An electronic device that can be used to read books, magazines, and other digital content.",
+			"tags": ["electronic", "reading", "books"],
+			"image": "https://pixabay.com/get/geec0bcddd169a7725591bf3940062a4d2e82e0372f8471b2eb0cc448b53c28bda1cb6efb7f8ccc7c040ccc670fcd9634_640.jpg"
+		}
+	]
+}
